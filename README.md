@@ -14,3 +14,5 @@ https://colab.research.google.com/drive/1wPKNsgX0LY5abmt9rtqzjOYfjc1c1CqK?usp=sh
 https://colab.research.google.com/drive/12J0y4mtpJoC8xOv95Qn0x8L1jx7ilprs?usp=sharing
 # Link do site:
 https://victormarques2007.github.io/reposit-rio_do_victor/
+# Link do Linkedin:
+https://www.linkedin.com/in/victor-marques-958101360/
