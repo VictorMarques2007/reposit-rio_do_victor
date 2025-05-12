@@ -1,6 +1,6 @@
 # Portifolio-victor
-### Projetos acadêmicos de Python desenvolvidos no curso de Ciência da Computação - CEUB.
-Quero mostrar o meu desenvolvimento em python mesmo sem muita experiência.
+#### Projetos acadêmicos de Python desenvolvidos no curso de Ciência da Computação - CEUB.
+#### Quero mostrar o meu desenvolvimento em python mesmo sem muita experiência.
 # Projetos feitos até agora:
 ## Calculadora de TMB
 https://colab.research.google.com/drive/1OVYhki6YAHF2l-ZLM94V9hYHW7gjUG-m?usp=sharing
